@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Not in Trolley
+  - In Trolley
+  - Barcode
+  - SprayBottle
+  - Apple
+  - banana
+  - avocado
+  - carton
+  - cartonSmall
+  - loaf
+  - loafRound
+  - can
+  - canSmall
+  - fish
+  - meatRaw
+  - cabbage
+  - carrot
+  - broccoli
+  - orange
+  - eggplant
+  - SoapBottle
+  - sodaBottle
+  - sodaCan
+  - wineRed
+  - wineWhite
+  - Cheese
+  - Yoghurt
+  - muffin
+  - honey
+  - peanutButter
+  - Scenery
+  - grapes
+  - wholerHam
+  - wholeHam
+  - turkey
+  - tomato
+  - shakerSalt
+  - shakerPepper
+  - pie
+  - pear
+  - leek
+  - donutChocolate
+  - donutSprinkles
+  - cupcake
+  - croissant
+  - cookie
+  - candyBarWrapper
+  - cherries
+  - chocolateWrapper
+  - bottleMusterd
+  - bottleKetchup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Shelving
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

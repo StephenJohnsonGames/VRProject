@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemCollection>
+  <Items>
+    <Item Name="Apple">
+      <ObjectName>Apple</ObjectName>
+      <Points>100</Points>
+      <Cost>1.00</Cost>
+      <ID>1</ID>
+    </Item>
+    
+    <Item Name="Avocado">
+      <ObjectName>avocado</ObjectName>
+      <Points>150</Points>
+      <Cost>1.00</Cost>
+      <ID>2</ID>
+    </Item>
+
+    <Item Name="Banana">
+      <ObjectName>banana</ObjectName>
+      <Points>200</Points>
+      <Cost>1.00</Cost>
+      <ID>3</ID>
+    </Item>
+
+    <Item Name="Orange">
+      <ObjectName>orange</ObjectName>
+      <Points>100</Points>
+      <Cost>1.00</Cost>
+      <ID>4</ID>
+    </Item>
+
+    <Item Name="Carrot">
+      <ObjectName>carrot</ObjectName>
+      <Points>100</Points>
+      <Cost>1.00</Cost>
+      <ID>5</ID>
+    </Item>
+
+    <Item Name="Broccoli">
+      <ObjectName>broccoli</ObjectName>
+      <Points>150</Points>
+      <Cost>1.00</Cost>
+      <ID>6</ID>
+    </Item>
+
+    <Item Name="Cabbage">
+      <ObjectName>cabbage</ObjectName>
+      <Points>200</Points>
+      <Cost>1.00</Cost>
+      <ID>7</ID>
+    </Item>
+
+    <Item Name="Eggplant">
+      <ObjectName>eggplant</ObjectName>
+      <Points>300</Points>
+      <Cost>2.00</Cost>
+      <ID>8</ID>
+    </Item>
+
+    <Item Name="Soap Bottle">
+      <ObjectName>SoapBottle</ObjectName>
+      <Points>300</Points>
+      <Cost>8.00</Cost>
+      <ID>9</ID>
+    </Item>
+
+    <Item Name="Spray Bottle">
+      <ObjectName>SprayBottle</ObjectName>
+      <Points>300</Points>
+      <Cost>12.00</Cost>
+      <ID>10</ID>
+    </Item>
+
+    <Item Name="Fish">
+      <ObjectName>fish</ObjectName>
+      <Points>250</Points>
+      <Cost>6.00</Cost>
+      <ID>11</ID>
+    </Item>
+
+    <Item Name="Pork Chop">
+      <ObjectName>meatRaw</ObjectName>
+      <Points>250</Points>
+      <Cost>7.00</Cost>
+      <ID>12</ID>
+    </Item>
+
+    <Item Name="Soda Bottle">
+      <ObjectName>sodaBottle</ObjectName>
+      <Points>150</Points>
+      <Cost>3.00</Cost>
+      <ID>13</ID>
+    </Item>
+
+    <Item Name="Soda Can">
+      <ObjectName>sodaCan</ObjectName>
+      <Points>150</Points>
+      <Cost>1.50</Cost>
+      <ID>14</ID>
+    </Item>
+
+    <Item Name="Red Wine">
+      <ObjectName>wineRed</ObjectName>
+      <Points>300</Points>
+      <Cost>30.00</Cost>
+      <ID>15</ID>
+    </Item>
+
+    <Item Name="White Wine">
+      <ObjectName>wineWhite</ObjectName>
+      <Points>300</Points>
+      <Cost>50.00</Cost>
+      <ID>16</ID>
+    </Item>
+
+    <Item Name="Tinned Beans">
+      <ObjectName>can</ObjectName>
+      <Points>200</Points>
+      <Cost>2.50</Cost>
+      <ID>17</ID>
+    </Item>
+
+    <Item Name="Tuna Can">
+      <ObjectName>canSmall</ObjectName>
+      <Points>150</Points>
+      <Cost>1.10</Cost>
+      <ID>18</ID>
+    </Item>
+
+    <Item Name="Cheese">
+      <ObjectName>Cheese</ObjectName>
+      <Points>250</Points>
+      <Cost>3.50</Cost>
+      <ID>19</ID>
+    </Item>
+
+    <Item Name="Yoghurt">
+      <ObjectName>Yoghurt</ObjectName>
+      <Points>200</Points>
+      <Cost>3.00</Cost>
+      <ID>20</ID>
+    </Item>
+
+    <Item Name="Large Milk">
+      <ObjectName>carton</ObjectName>
+      <Points>250</Points>
+      <Cost>1.50</Cost>
+      <ID>21</ID>
+    </Item>
+
+    <Item Name="Small Milk">
+      <ObjectName>cartonSmall</ObjectName>
+      <Points>200</Points>
+      <Cost>1.00</Cost>
+      <ID>22</ID>
+    </Item>
+
+    <Item Name="Muffin">
+      <ObjectName>muffin</ObjectName>
+      <Points>150</Points>
+      <Cost>0.50</Cost>
+      <ID>23</ID>
+    </Item>
+
+    <Item Name="Loaf Bread">
+      <ObjectName>loaf</ObjectName>
+      <Points>150</Points>
+      <Cost>4.75</Cost>
+      <ID>24</ID>
+    </Item>
+
+    <Item Name="Bloomer">
+      <ObjectName>loafRound</ObjectName>
+      <Points>100</Points>
+      <Cost>2.00</Cost>
+      <ID>25</ID>
+    </Item>
+
+    <Item Name="Honey Jar">
+      <ObjectName>honey</ObjectName>
+      <Points>200</Points>
+      <Cost>5.85</Cost>
+      <ID>26</ID>
+    </Item>
+
+    <Item Name="Peanut Butter Jar">
+      <ObjectName>peanutButter</ObjectName>
+      <Points>250</Points>
+      <Cost>3.50</Cost>
+      <ID>27</ID>
+    </Item>
+
+    <Item Name="Grapes">
+      <ObjectName>grapes</ObjectName>
+      <Points>200</Points>
+      <Cost>1.50</Cost>
+      <ID>28</ID>
+    </Item>
+    
+    <Item Name="Whole Ham">
+      <ObjectName>wholerHam</ObjectName>
+      <Points>300</Points>
+      <Cost>5.50</Cost>
+      <ID>29</ID>
+    </Item>
+
+    <Item Name="Half Ham">
+      <ObjectName>wholeHam</ObjectName>
+      <Points>150</Points>
+      <Cost>3.00</Cost>
+      <ID>30</ID>
+    </Item>
+
+    <Item Name="Turkey">
+      <ObjectName>turkey</ObjectName>
+      <Points>400</Points>
+      <Cost>7.00</Cost>
+      <ID>31</ID>
+    </Item>
+
+    <Item Name="Tomato">
+      <ObjectName>tomato</ObjectName>
+      <Points>150</Points>
+      <Cost>0.50</Cost>
+      <ID>32</ID>
+    </Item>
+
+    <Item Name="Pepper Shaker">
+      <ObjectName>shakerSalt</ObjectName>
+      <Points>100</Points>
+      <Cost>1.50</Cost>
+      <ID>33</ID>
+    </Item>
+
+    <Item Name="Salt Shaker">
+      <ObjectName>shakerPepper</ObjectName>
+      <Points>100</Points>
+      <Cost>1.50</Cost>
+      <ID>34</ID>
+    </Item>
+
+    <Item Name="Pie">
+      <ObjectName>pie</ObjectName>
+      <Points>350</Points>
+      <Cost>5.50</Cost>
+      <ID>35</ID>
+    </Item>
+
+    <Item Name="Pear">
+      <ObjectName>pear</ObjectName>
+      <Points>50</Points>
+      <Cost>1.50</Cost>
+      <ID>36</ID>
+    </Item>
+
+    <Item Name="Leek">
+      <ObjectName>leek</ObjectName>
+      <Points>250</Points>
+      <Cost>1.50</Cost>
+      <ID>37</ID>
+    </Item>
+
+    <Item Name="Chocolate Donut">
+      <ObjectName>donutChocolate</ObjectName>
+      <Points>250</Points>
+      <Cost>1.50</Cost>
+      <ID>38</ID>
+    </Item>
+
+    <Item Name="Sprinkle Donut">
+      <ObjectName>donutSprinkles</ObjectName>
+      <Points>250</Points>
+      <Cost>1.50</Cost>
+      <ID>39</ID>
+    </Item>
+
+    <Item Name="Cupcake">
+      <ObjectName>cupcake</ObjectName>
+      <Points>150</Points>
+      <Cost>0.50</Cost>
+      <ID>40</ID>
+    </Item>
+
+    <Item Name="Croissant">
+      <ObjectName>croissant</ObjectName>
+      <Points>250</Points>
+      <Cost>1.50</Cost>
+      <ID>41</ID>
+    </Item>
+
+    <Item Name="Cookie">
+      <ObjectName>cookie</ObjectName>
+      <Points>350</Points>
+      <Cost>1.50</Cost>
+      <ID>42</ID>
+    </Item>
+
+    <Item Name="Small Chocolate Bar">
+      <ObjectName>candyBarWrapper</ObjectName>
+      <Points>250</Points>
+      <Cost>1.00</Cost>
+      <ID>43</ID>
+    </Item>
+    
+    <Item Name="Cherries">
+      <ObjectName>cherries</ObjectName>
+      <Points>250</Points>
+      <Cost>1.00</Cost>
+      <ID>44</ID>
+    </Item>
+
+    <Item Name="Large Chocolate Bar">
+      <ObjectName>chocolateWrapper</ObjectName>
+      <Points>250</Points>
+      <Cost>1.50</Cost>
+      <ID>44</ID>
+    </Item>
+
+    <Item Name="Mustard">
+      <ObjectName>bottleMusterd</ObjectName>
+      <Points>250</Points>
+      <Cost>3.50</Cost>
+      <ID>45</ID>
+    </Item>
+
+    <Item Name="Ketchup">
+      <ObjectName>bottleKetchup</ObjectName>
+      <Points>250</Points>
+      <Cost>3.50</Cost>
+      <ID>46</ID>
+    </Item>
+    
+  </Items>
+</ItemCollection>
